@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\Fabrica de automóveis.exe
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\Fabrica de automóveis.deps.json
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\Fabrica de automóveis.runtimeconfig.json
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\Fabrica de automóveis.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\Fabrica de automóveis.dll
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\ref\Fabrica de automóveis.dll
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\bin\Debug\net5.0\Fabrica de automóveis.pdb
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.AssemblyInfo.cs
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.dll
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\ref\Fabrica de automóveis.dll
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.pdb
+C:\Users\lucas\Desktop\HelloWorld\Fabrica de automóveis\Fabrica de automóveis\obj\Debug\net5.0\Fabrica de automóveis.genruntimeconfig.cache
